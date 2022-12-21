@@ -110,8 +110,8 @@ In order to run this project you need:
 - [ ] Link your PC to GitHub
 - [ ] Clone this repository to your desired folder:
 
-`cd my-folder`
-`git clone https://github.com/miltonHenschel/Capstone-Project-1-Conference-Page.git`
+`git clone https://github.com/miltonHenschel/Webpack-Setup.git`
+`cd Webpack-Setup`
 
 - [ ] Open the file in your code editor
 - [ ] Setup JavaScript + CSS + HTML linter
@@ -122,7 +122,7 @@ Run the following codes in your project folder in your IDE: `npm install --save-
 
 Install this project with:
 
-- [ ] node_models `npm install -g node-modules`
+- [ ] webpack `npm install -g webpack` `npm install -g webpack-cli`
 - [ ] project dependencies
 
 <!--
@@ -148,11 +148,15 @@ Example command:
 
 ### Run tests <a name="run-tests"></a>
 
+<!--
 To run Stylelint and ESLint tests, run the following commands `npx stylelint "**/*.{css,scss}"` `npx eslint .` respectively.
+-->
 
 ### Deployment <a name="deployment"></a>
 
+<!--
 You can deploy this project using [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
+-->
 
 <!--
 Example:
@@ -223,9 +227,11 @@ Give a ⭐️ if you like this project!
 
 <!-- > Add at least 2 questions new developers would ask when they decide to use your project.-->
 
+<!--
 - **How to fix JavaScript + CSS + HTML linter errors?**
 
   - Kindly use `npx stylelint "**/*.{css,scss} --fix"` and `npx eslint . --fix` in the project's root directory.
+-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="https://github.com/microverseinc/readme-template/raw/master/murple_logo.png" alt="logo" width="50"  height="auto" />
+  <img src="https://github.com/microverseinc/readme-template/raw/master/murple_logo.png" alt="logo" width="100"  height="auto" />
   <br/>
   <h3><b>Microverse README</b></h3>
 </div>
@@ -42,7 +42,7 @@ A simple yet powerful Webpack boilerplate, a starting point for projects
 
 <!-- > Describe the tech stack and include only the relevant sections that apply to your project.-->
 
-<a href="https://www.w3.org/html/" target="_blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.svg" alt="html5" width="55" height="55"/></a> <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.svg" alt="css3" width="55" height="55"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/></a> <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/webpack-icon.svg" alt="webpack" width="55" height="55"/></a>
+<a href="https://www.w3.org/html/" target="_blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.svg" alt="html5" width="55" height="55"/></a> <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.svg" alt="css3" width="55" height="55"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/javascript-programming-language-icon.svg" alt="javascript" width="55" height="55"/></a> <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/webpack-icon.svg" alt="webpack" width="55" height="55"/></a>
 
 <!--
 <details>
@@ -72,9 +72,7 @@ A simple yet powerful Webpack boilerplate, a starting point for projects
 
 <!-- > Describe between 1-3 key features of the application.-->
 
-- **Add books**
-- **Delete books**
-- **Local storage**
+- **Modules bundler**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,8 +82,8 @@ A simple yet powerful Webpack boilerplate, a starting point for projects
 
 <!-- > Add a link to your deployed project.-->
 
-- [Live Demo Link](https://miltonhenschel.github.io/Awesome-Books-ES6/)
-<!--  - [Video presentation](https://www.loom.com/share/)-->
+<!--  - [Live Demo Link]()-->
+<!--  - [Video presentation]()-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

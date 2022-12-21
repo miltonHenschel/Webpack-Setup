@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="https://github.com/microverseinc/readme-template/raw/master/murple_logo.png" alt="logo" width="50"  height="auto" />
+  <img src="https://github.com/microverseinc/readme-template/raw/master/murple_logo.png" alt="logo" width="100"  height="auto" />
   <br/>
   <h3><b>Microverse README</b></h3>
 </div>
@@ -42,13 +42,7 @@ A simple yet powerful Webpack boilerplate, a starting point for projects
 
 <!-- > Describe the tech stack and include only the relevant sections that apply to your project.-->
 
-<a href="https://www.w3.org/html/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/></a>
-
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/></a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/></a>
-
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/webpack-icon.svg" alt="webpack" width="55" height="55"/></a>
+<a href="https://www.w3.org/html/" target="_blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.svg" alt="html5" width="55" height="55"/></a> <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.svg" alt="css3" width="55" height="55"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/javascript-programming-language-icon.svg" alt="javascript" width="55" height="55"/></a> <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/webpack-icon.svg" alt="webpack" width="55" height="55"/></a>
 
 <!--
 <details>
@@ -78,9 +72,7 @@ A simple yet powerful Webpack boilerplate, a starting point for projects
 
 <!-- > Describe between 1-3 key features of the application.-->
 
-- **Add books**
-- **Delete books**
-- **Local storage**
+- **Modules bundler**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,8 +82,8 @@ A simple yet powerful Webpack boilerplate, a starting point for projects
 
 <!-- > Add a link to your deployed project.-->
 
-- [Live Demo Link](https://miltonhenschel.github.io/Awesome-Books-ES6/)
-<!--  - [Video presentation](https://www.loom.com/share/)-->
+<!--  - [Live Demo Link]()-->
+<!--  - [Video presentation]()-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,8 +110,8 @@ In order to run this project you need:
 - [ ] Link your PC to GitHub
 - [ ] Clone this repository to your desired folder:
 
-`cd my-folder`
-`git clone https://github.com/miltonHenschel/Capstone-Project-1-Conference-Page.git`
+`git clone https://github.com/miltonHenschel/Webpack-Setup.git`
+`cd Webpack-Setup`
 
 - [ ] Open the file in your code editor
 - [ ] Setup JavaScript + CSS + HTML linter
@@ -130,7 +122,7 @@ Run the following codes in your project folder in your IDE: `npm install --save-
 
 Install this project with:
 
-- [ ] node_models `npm install -g node-modules`
+- [ ] webpack `npm install -g webpack` `npm install -g webpack-cli`
 - [ ] project dependencies
 
 <!--
@@ -156,11 +148,15 @@ Example command:
 
 ### Run tests <a name="run-tests"></a>
 
+<!--
 To run Stylelint and ESLint tests, run the following commands `npx stylelint "**/*.{css,scss}"` `npx eslint .` respectively.
+-->
 
 ### Deployment <a name="deployment"></a>
 
+<!--
 You can deploy this project using [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
+-->
 
 <!--
 Example:
@@ -231,9 +227,11 @@ Give a ⭐️ if you like this project!
 
 <!-- > Add at least 2 questions new developers would ask when they decide to use your project.-->
 
+<!--
 - **How to fix JavaScript + CSS + HTML linter errors?**
 
   - Kindly use `npx stylelint "**/*.{css,scss} --fix"` and `npx eslint . --fix` in the project's root directory.
+-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

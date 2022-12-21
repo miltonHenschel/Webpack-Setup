@@ -41,6 +41,7 @@ A simple yet powerful Webpack boilerplate, a starting point for projects
 ### Tech Stack <a name="tech-stack"></a>
 
 <!-- > Describe the tech stack and include only the relevant sections that apply to your project.-->
+<span>
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/></a>
 
@@ -50,6 +51,7 @@ A simple yet powerful Webpack boilerplate, a starting point for projects
 
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/webpack-icon.svg" alt="webpack" width="55" height="55"/></a>
 
+</span>
 <!--
 <details>
   <summary>Client</summary>
